@@ -122,7 +122,7 @@ You Can also find shared valid json config for postman collection which is uploa
 ### Screenshots
 
 <p align="center">
-  <img src="Demo/image1.png" alt="image"/>
+  <img src="Demo/image2.png" alt="image"/>
 </p>
 
 <p align="center">
